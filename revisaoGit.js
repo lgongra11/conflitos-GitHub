@@ -5,7 +5,7 @@ let equipe = [
         idade: 25
     },
     {
-        nome: "Maria Luiza",
+        nome: "Maria Luiza Godoy",
         cargo: "Designer"
         idade: 28
     }
